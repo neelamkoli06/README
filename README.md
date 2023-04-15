@@ -2,6 +2,7 @@
 
 <h3 align="center"> Python Developer 👩‍💻</h3>
 
+- 🎓 Currently pursuing Bachelors Degree in Computer Engineering.
 - 🔭 I’m currently working on Python Development.
 - 🌱 I’m currently learning Django.
 - 💬 Ask me about: Python, MYSQL, HTML, CSS, React.js, JavaScript, Java, C, C++.
@@ -11,6 +12,6 @@
 
 📫  Feel free to reach me: 
 
-[![Email](https://img.shields.io/badge/Email-%40neelamkoli06@gmail.com%20-blue)](mailto:neelamkoli06@gmail.com?)
+[![Email](https://img.shields.io/badge/neelamkoli06@gmail.com%20-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:neelamkoli06@gmail.com?)
 [![Linkedin: neelam-koli-06a9591aa/](https://img.shields.io/badge/-NeelamKoli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neelam-koli-06a9591aa/)](https://www.linkedin.com/in/neelam-koli-06a9591aa/)
-
+[![Badges](https://img.shields.io/badge/GoogleBadges-yellow?style=flat-square&logo=Google&logoColor=white)](https://googlecloud.qwiklabs.com/public_profiles/5ff05290-98e7-40ae-a357-5126534e587c)
