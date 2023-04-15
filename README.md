@@ -30,6 +30,10 @@
 -  [![Jupyter](https://img.shields.io/badge/Jupyter%20-white?style=flat-square&logo=Jupyter&logoColor=orange)]() 
 -  [![VisualStudio](https://img.shields.io/badge/VisualStudio%20-black?style=flat-square&logo=VisualStudio&logoColor=white)]() 
 -  [![Vercel](https://img.shields.io/badge/Vercel%20-white?style=flat-square&logo=Vercel&logoColor=black)]() 
+-  [![GoogleCloud](https://img.shields.io/badge/GoogleCloud%20-black?style=flat-square&logo=Googlecloud&logoColor=white)]() 
+ 
+
+
 
 <h3>📫  Feel free to reach me:</h3>
 
