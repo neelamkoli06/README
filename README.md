@@ -2,12 +2,11 @@
 
 <h3 align="center"> Python Developer 👩‍💻</h3>
 
-- 🎓 Currently pursuing Bachelors Degree in Computer Engineering.
-- 🔭 I’m currently working on Python Development.
-- 🌱 I’m currently learning Django.
+- 🎓 Computer Engineer (2023 Passout).
+- 🌱 I’m currently learning different technologies.
 - 💬 Ask me about: Python, MYSQL, HTML, CSS, React.js, JavaScript, Java, C, C++.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ My interests: Python development.
+- ⚡ My interests: Python development/Web development/Java development.
 - 💻 Outside tech: Exploring new places 🌴.
 
 <h3>💻  Skills:</h3>
