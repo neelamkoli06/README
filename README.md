@@ -1,12 +1,12 @@
 <h1 align="center"><b>Hi , I'm Neelam Koli </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center"> Python Developer 👩‍💻</h3>
+<h3 align="center"> Software Developer 👩‍💻</h3>
 
 - 🎓 Computer Engineer (2023 Passout).
 - 🌱 I’m currently learning different technologies.
 - 💬 Ask me about: Python, MYSQL, HTML, CSS, React.js, JavaScript, Java, C, C++.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ My interests: Python development/Web development/Java development.
+- ⚡ My interests: Web development/Python development/Java development.
 - 💻 Outside tech: Exploring new places 🌴.
 
 <h3>💻  Skills:</h3>
