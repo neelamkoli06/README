@@ -11,12 +11,12 @@
 
 <h3>💻  Skills:</h3>
 
--  [![Python](https://img.shields.io/badge/Python%20-yellow?style=flat-square&logo=Python&logoColor=white)]() 
--  [![MYSQL](https://img.shields.io/badge/MYSQL%20-white?style=flat-square&logo=Mysql&logoColor=black)]() 
 -  [![HTML](https://img.shields.io/badge/HTML%20-orange?style=flat-square&logo=HTML5&logoColor=white)]() 
--  [![CSS](https://img.shields.io/badge/Css%20-blue?style=flat-square&logo=CSS3&logoColor=white)]() 
+-  [![CSS](https://img.shields.io/badge/Css%20-blue?style=flat-square&logo=CSS3&logoColor=white)]()
+-  [![Java Script](https://img.shields.io/badge/JavaScript%20-grey?style=flat-square&logo=Javascript&logoColor=yellow)]()
 -  [![React.js](https://img.shields.io/badge/React.js%20-black?style=flat-square&logo=React&logoColor=skyblue)]() 
--  [![Java Script](https://img.shields.io/badge/JavaScript%20-grey?style=flat-square&logo=Javascript&logoColor=yellow)]() 
+-  [![Python](https://img.shields.io/badge/Python%20-yellow?style=flat-square&logo=Python&logoColor=white)]() 
+-  [![MYSQL](https://img.shields.io/badge/MYSQL%20-white?style=flat-square&logo=Mysql&logoColor=black)]()  
 -  [![Java](https://img.shields.io/badge/Java%20-red)]() 
 -  [![CPP](https://img.shields.io/badge/C++%20-blue?style=flat-square&logo=C++&logoColor=white)]() 
 -  [![C](https://img.shields.io/badge/C%20-darkblue?style=flat-square&logo=C&logoColor=white)]() 
@@ -24,10 +24,10 @@
 
 <h3>👩‍💻 Platforms:</h3>
 
+-  [![VisualStudio](https://img.shields.io/badge/VisualStudio%20-black?style=flat-square&logo=VisualStudio&logoColor=white)]() 
 -  [![Anaconda](https://img.shields.io/badge/Anaconda%20-white?style=flat-square&logo=Anaconda&logoColor=green)]() 
 -  [![Pycharm](https://img.shields.io/badge/Pycharm%20-black?style=flat-square&logo=Pycharm&logoColor=white)]() 
 -  [![Jupyter](https://img.shields.io/badge/Jupyter%20-white?style=flat-square&logo=Jupyter&logoColor=orange)]() 
--  [![VisualStudio](https://img.shields.io/badge/VisualStudio%20-black?style=flat-square&logo=VisualStudio&logoColor=white)]() 
 -  [![Vercel](https://img.shields.io/badge/Vercel%20-white?style=flat-square&logo=Vercel&logoColor=black)]() 
 -  [![GoogleCloud](https://img.shields.io/badge/GoogleCloud%20-black?style=flat-square&logo=Googlecloud&logoColor=white)]() 
  
