@@ -4,7 +4,7 @@
 
 - 🎓 Computer Engineer (2023 Passout).
 - 🌱 I’m currently learning different technologies.
-- 💬 Ask me about: HTML, CSS, JavaScript, React.js, Python, Java, C, C++, MYSQL.
+- 💬 Ask me about: HTML, CSS, JavaScript, React.js, Java, Python, C, C++, MYSQL.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ My interests: Web development/Python development/Java development.
 - 💻 Outside tech: Exploring new places 🌴.
